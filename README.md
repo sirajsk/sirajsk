@@ -3,13 +3,13 @@
 <h3 align="center">A Self-thought MERN stack Dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **BUY-EXCHANGE**
+- 🔭 I’m currently working on **Kanal-news app**
 
-- 🌱 I’m currently learning **Flutter and TS**
+- 🌱 I’m currently learning **NEXT js and TS**
 
 - 💬 Ask me about **Node.js React.js MongoDB Express**
 
-- 📫 How to reach me **Sirajkpd12@gmail.com**
+- 📫 How to reach me **Sirajudheenkofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
